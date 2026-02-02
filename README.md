@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fahminurf
 - 👀 I’m interested in Data and IOT
-- 🌱 I’m currently learning Jenkins
+- 🌱 I’m currently learning Jenkins,Linux and DevOps
 
 <!---
 fahminurf/fahminurf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
